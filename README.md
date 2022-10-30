@@ -8,5 +8,5 @@
 Disclaimer: I create this website based on a well-structured template.<br>
 Credit: [Kards](https://www.styleshout.com/free-templates/kards/)
 
-Thanks for visiting my website. (latest update: 2021 December)
+Thanks for visiting my website. (latest update: 2022 October)
 💛
