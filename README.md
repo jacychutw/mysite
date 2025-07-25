@@ -1,6 +1,6 @@
 ## 個人作品集網站<br>
 
-🔎 Jacy Chu: http://jacychu.website/
+🔎 Jacy Chu: [http://jacychu.website/](https://jacychutw.github.io/mysite/)
 
 ![截圖 2021-12-02 上午10 31 17](https://user-images.githubusercontent.com/85614151/144346705-2199e349-f636-46ca-ba9f-91994019c57f.png)
 
